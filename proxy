@@ -1,0 +1,9 @@
+# Telegram domains
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegra.ph
+
+# Telegram ASN
+IP-ASN,62041
+IP-ASN,59930
+IP-ASN,44907
