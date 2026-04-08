@@ -52,10 +52,11 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,4pda.to
 DOMAIN-SUFFIX,dnslytics.com
 DOMAIN-SUFFIX,proxyliberty.ru
-DOMAIN-SUFFIX,withblancvpn.online
 DOMAIN-SUFFIX,connliberty.com
+DOMAIN-SUFFIX,withblancvpn.online
 DOMAIN-SUFFIX,blancvpn.com
 DOMAIN-SUFFIX,blancvpn.care
+DOMAIN-SUFFIX,blanccdn.com
 
 # === Media / Other ===
 DOMAIN-SUFFIX,kinozal.tv
