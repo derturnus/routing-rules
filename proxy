@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,grok.com
 # === Google / YouTube ===
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
@@ -71,3 +72,12 @@ DOMAIN-SUFFIX,paperpaper.io
 # === Speedtest ===
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,speedtest.net
+
+# === Speedtest ===
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,speedtest.net
+
+# === GitHub ===
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
