@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,paperpaper.io
+DOMAIN-SUFFIX,duolingo.com
 
 # === Speedtest ===
 DOMAIN-SUFFIX,ookla.com
@@ -81,3 +82,4 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+
