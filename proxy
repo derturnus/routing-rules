@@ -75,6 +75,11 @@ DOMAIN-SUFFIX,duolingo.cn
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discord.com
 
+# === PlayStation ===
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,sony.com
+
 # === Speedtest ===
 DOMAIN-SUFFIX,ookla.com
 DOMAIN-SUFFIX,speedtest.net
@@ -83,3 +88,7 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
+
+# === Work ===
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,camunda.io
