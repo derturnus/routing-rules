@@ -31,6 +31,11 @@ DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
 DOMAIN-SUFFIX,tiktokglobalshopv.com
 
+# === Spotify ===
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,tospotify.com
+
 # === Telegram ===
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,telegram.me
