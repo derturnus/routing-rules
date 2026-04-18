@@ -20,10 +20,7 @@ DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,yt1.googleusercontent.com
-DOMAIN-SUFFIX,yt2.googleusercontent.com
-DOMAIN-SUFFIX,yt3.googleusercontent.com
-DOMAIN-SUFFIX,yt4.googleusercontent.com
+DOMAIN-WILDCARD,yt*.googleusercontent.com
 
 # === TikTok ===
 DOMAIN-SUFFIX,tiktok.com
