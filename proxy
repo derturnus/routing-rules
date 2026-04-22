@@ -54,6 +54,9 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chatgpt.com
 
+# === Claude ===
+DOMAIN-SUFFIX,claude.com
+
 # === Mail / Proton ===
 DOMAIN-SUFFIX,mail.google.com
 DOMAIN-SUFFIX,inbox.google.com
