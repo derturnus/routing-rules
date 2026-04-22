@@ -56,6 +56,8 @@ DOMAIN-SUFFIX,chatgpt.com
 
 # === Claude ===
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
 # === Mail / Proton ===
 DOMAIN-SUFFIX,mail.google.com
