@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 
 # === Mail / Proton ===
 DOMAIN-SUFFIX,mail.google.com
